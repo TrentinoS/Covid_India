@@ -35,7 +35,7 @@ _Columns_ = `Date` `State` `District` `Confirmed` `Recovered` `Deceased` `Other`
 ##### The file contains the cumulative data for `confirmed cases`, `recovered cases` , `deceased cases` & `tested cases` for each district of each state and it is updated regularly. 
 ---
 
-###### There is a seperate notebook for [India](India.ipynb), [States](State.ipynb) & [Districts]().
+###### There is a seperate notebook for [India](India.ipynb), [States](State.ipynb) & [Districts](District.ipynb).
 
 ###### Each notebook contain the following:-
 * Data Cleaning
