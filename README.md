@@ -33,7 +33,7 @@ _Columns_ = `Date` `State` `District` `Confirmed` `Recovered` `Deceased` `Other`
 
 ###### There is a seperate notebook for [India](India.ipynb), [States](State.ipynb) & [Districts]().
 
-###### Each notebook consists the following:-
+###### Each notebook contain the following:-
 * Data Cleaning
 * Data Visualization
 * Stats for each state/districts
