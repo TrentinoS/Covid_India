@@ -1,3 +1,7 @@
+<p align="center">
+  <img   src='https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNvcm9uYXZpcnVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60'>
+</p>
+
 <h1 align='center' style='color:#e85d04'>Covid-19 Data Analysis & Visualization</h1>
 
 ---
