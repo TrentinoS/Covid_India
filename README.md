@@ -1,4 +1,4 @@
-<h1 align='center' style='color:#'>Covid-19 Data Analysis</h1>
+<h1 align='center' style='color:#e85d04'>Covid-19 Data Analysis & Visualization</h1>
 
 ---
 **Data Source:-**
@@ -7,7 +7,7 @@
    3. [Districts](https://api.covid19india.org/csv/latest/districts.csv) 
 ---
 
-<h3 style='color:#'>INDIA</h3>
+<h3 style='color:#023e8a'>INDIA</h3>
 
 
 _Columns_ = `Date` `Daily Confirmed` `Total Confirmed` `Daily Recovered` `Total Recovered` `Daily Deceased` `Total Deceased`
@@ -16,7 +16,7 @@ _Columns_ = `Date` `Daily Confirmed` `Total Confirmed` `Daily Recovered` `Total 
 ##### The file contains the real-time data of covid-19, daily cases as-well-as cumulative cases of whole country. 
 ---
 
-<h3 style='color:#'>STATES</h3>
+<h3 style='color:#023e8a'>STATES</h3>
 
 
 _Columns_ = `Date` `State` `Confirmed` `Recovered` `Deceased` `Other` `Tested`
@@ -24,10 +24,18 @@ _Columns_ = `Date` `State` `Confirmed` `Recovered` `Deceased` `Other` `Tested`
 ##### The file contains the cumulative data for `confirmed cases`, `recovered cases` , `deceased cases` & `tested cases` for each state and it is  updated regularly. 
 ---
 
-<h3 style='color:#'>DISTRICTS</h3>
+<h3 style='color:#023e8a'>DISTRICTS</h3>
 
 _Columns_ = `Date` `State` `District` `Confirmed` `Recovered` `Deceased` `Other` `Tested`
 
 ##### The file contains the cumulative data for `confirmed cases`, `recovered cases` , `deceased cases` & `tested cases` for each district of each state and it is updated regularly. 
 ---
 
+###### There is a seperate notebook for [India](India.ipynb), [States](State.ipynb) & [Districts]().
+
+###### Each notebook consists the following:-
+* Data Cleaning
+* Data Visualization
+* Stats for each state/districts
+
+---
