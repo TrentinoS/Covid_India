@@ -43,3 +43,10 @@ _Columns_ = `Date` `State` `District` `Confirmed` `Recovered` `Deceased` `Other`
 * Stats for each state/districts
 
 ---
+<p align="center">
+  <i>Wanna connect with me</i>
+     <p align="center">
+       <a href="https://www.linkedin.com/in/milan-singh-932165a6/" alt="Linkedin"><img width="28px" src="https://img-premium.flaticon.com/png/512/1384/1384062.png?token=exp=1621491409~hmac=b6d0d76f1cabcb8616f2d8c0b61ce0b6"></a>
+       <a href="mailto:milansinghthakur024@gmail.com" alt="Contact me"><img width="28px" src="https://img-premium.flaticon.com/png/512/2965/2965306.png?token=exp=1621491445~hmac=42c5703ac10e28b117060225591a3f71"></a>
+  
+ </p>
