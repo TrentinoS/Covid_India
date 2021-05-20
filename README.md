@@ -1,5 +1,5 @@
 <p align="center">
-  <img   src='https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNvcm9uYXZpcnVzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60'>
+  <img   src='https://images.unsplash.com/flagged/photo-1584036561584-b03c19da874c?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=889&q=100'>
 </p>
 
 <h1 align='center' style='color:#e85d04'>Covid-19 Data Analysis & Visualization</h1>
@@ -44,7 +44,7 @@ _Columns_ = `Date` `State` `District` `Confirmed` `Recovered` `Deceased` `Other`
 
 ---
 <p align="center">
-  <i>Wanna connect with me</i>
+  <i>Connect with me</i>
      <p align="center">
        <a href="https://www.linkedin.com/in/milan-singh-932165a6/" alt="Linkedin"><img width="28px" src="https://img-premium.flaticon.com/png/512/1384/1384062.png?token=exp=1621491409~hmac=b6d0d76f1cabcb8616f2d8c0b61ce0b6"></a>
        <a href="mailto:milansinghthakur024@gmail.com" alt="Contact me"><img width="28px" src="https://img-premium.flaticon.com/png/512/2965/2965306.png?token=exp=1621491445~hmac=42c5703ac10e28b117060225591a3f71"></a>
